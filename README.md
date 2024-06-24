@@ -65,7 +65,7 @@ https://github.com/Machiwabi/machiwabi-contracts
   - URLを埋め込むだけでバーチャル空間に簡単に仕掛けることができ、回遊と再訪率を促すという仕組みを実現します。
 
 
-#### Movie　｜MetaMe with Matiwabi 
+#### Sample Movie - MetaMe with Matiwabi 
 
 https://www.youtube.com/watch?v=iATaj2PmMys
 
