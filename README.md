@@ -1,10 +1,12 @@
 # MachiwabiDocs
 
-- MeTown Inc. is developing Machiwabi, a service that aims to enhance the waiting experience using Web3 technology. Machiwabi implements a feature that converts waiting time at live events into tokens, transforming waiting time into valuable digital assets.
-- By utilizing Machiwabi, participants of various events, from real-world concerts to metaverse events, can transform their waiting time into an interactive and unique experience.
+- En
+  - MeTown Inc. is developing Machiwabi, a service that aims to enhance the waiting experience using Web3 technology. Machiwabi implements a feature that converts waiting time at live events into tokens, transforming waiting time into valuable digital assets.
+  - By utilizing Machiwabi, participants of various events, from real-world concerts to metaverse events, can transform their waiting time into an interactive and unique experience.
 
-- MeTown Inc.が開発しているmachiwabiは、Web3テクノロジーを活用して待ち時間の体験をアップデートすることを目指しています。machiwabiは、ライブイベントでの待ち時間をトークンに変換できる機能を実装することで、待ち時間をかけがえのないデジタル資産に変換できるサービスです。
-- マチワビを利用することで、リアルなコンサートからメタバースイベントまで、さまざまなイベントの参加者が待ち時間をインタラクティブで特別な体験に変革します。
+- Ja
+  - MeTown Inc.が開発しているmachiwabiは、Web3テクノロジーを活用して待ち時間の体験をアップデートすることを目指しています。machiwabiは、ライブイベントでの待ち時間をトークンに変換できる機能を実装することで、待ち時間をかけがえのないデジタル資産に変換できるサービスです。
+  - マチワビを利用することで、リアルなコンサートからメタバースイベントまで、さまざまなイベントの参加者が待ち時間をインタラクティブで特別な体験に変革します。
 
 
 ##  5th Wave Latest Updates
