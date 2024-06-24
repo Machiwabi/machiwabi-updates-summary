@@ -3,7 +3,7 @@
 マチワビは、待ち侘びる時間を価値にするWeb3アプリケーションです。待ち侘びた時間は、リワードと交換できます。
 
 
-#  5th Wave Latest Updates
+##  5th Wave Latest Updates
 
 ### Updates
 
@@ -46,13 +46,19 @@
 
 ### In MetaMe 
 
+- I propose a draft of a mission called "Treasure Mission." In this mission, participants explore a virtual space during the waiting time before an event. When they discover a hidden treasure (a string of characters), their point increase rate improves.
+- This system can be easily set up in a virtual space by embedding a URL, which encourages exploration and revisitation.
+
 ー 「トレジャーミッション」なるミッションの素案を提案。イベント開催前の待ち侘び時間にてバーチャル空間を回遊し、トレジャー隠された文字列を発見するとポイント増加率が向上するというもの。
 - URLを埋め込むだけでバーチャル空間に簡単に仕掛けることができ、回遊と再訪率を促すという仕組みを実現します。
 
+<img width="2249" alt="003" src="https://github.com/Machiwabi/machiwabi-docs/assets/1862066/b887002d-7885-4725-9b7c-f483495d6854">
 
-# バーチャルイベント連携
+#### Movie
 
-コード外のドキュメントを整備してアップロードしていくリポジトリです。
+
+
+## 2nd Wave
 
 ## v0.2 ワイヤーフレーム兼ミニマムデザイン版
 
