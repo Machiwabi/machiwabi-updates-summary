@@ -12,7 +12,7 @@
   - 3.Implementation of the Treasure Mission, where finding a code within the metaverse space increases the point increase rate.
 - Ja
   - 1.PoC第1週目(待ち時間開始〜イベント終了)完了
-　　　  - リワードとのNFTの引き換え実施
+    - リワードとのNFTの引き換え実施
   - 2.ポイントコントラクトの実装と検証を開始(MatiwabiToken７２１,MissionToken1155)
   - 3.Metame(UE5)とマチワビの連携テスト
     - トレジャーミッションの実装　メタバース空間内部でコードを見つけるとポイント上昇率が上がる仕組みの実装
