@@ -19,8 +19,7 @@
 
 - PoCでは、マチワビにユーザーが継続的に来訪・アクションすることがわかり、一定の価値を証明できました。「マチワビに参加するユーザーがいる」「課金する」「SNSでのアクションをする」という学びを得たことは、チームにとって大きい収穫でした。
 
-
-### ポイントコントラクトの実装と検証を開始
+### About PointContracts (MatiwabiToken721,MissionToken1155)
 
 - An extension of ERC721 called "MatiwabiToken721" is designed to start when Machiwabi is initiated. It includes a function that derives points based on the block number difference.
 - "MissionToken1155," earned upon completing missions, is an extension of ERC1155. In collaboration with MatiwabiToken721, it can increase the point gain of MatiwabiToken721. The more you acquire, the more points MatiwabiToken721 gains.
@@ -45,8 +44,10 @@
 |MissionToken1155|manta-sepolia-testnet|https://pacific-explorer.sepolia-testnet.manta.network/address/0xf472fed0404F907dB77d3052f95ad75B317f3e07|
 |MissionToken1155|sepolia|https://sepolia.etherscan.io/address/0xaf3E61dDa90956085060dce183dA0d928610D9B2|
 
-### バーチャルイベント連携
+### In MetaMe 
 
+ー 「トレジャーミッション」なるミッションの素案を提案。イベント開催前の待ち侘び時間にてバーチャル空間を回遊し、トレジャー隠された文字列を発見するとポイント増加率が向上するというもの。
+- URLを埋め込むだけでバーチャル空間に簡単に仕掛けることができ、回遊と再訪率を促すという仕組みを実現します。
 
 
 # バーチャルイベント連携
