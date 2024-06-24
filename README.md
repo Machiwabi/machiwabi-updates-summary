@@ -67,5 +67,8 @@ https://github.com/Machiwabi/machiwabi-contracts
 
 #### Movie　｜MetaMe with Matiwabi 
 
-[!['altテキスト']('サムネイル画像のURL')](https://youtu.be/iATaj2PmMys?si=Euw04vWOObbd8XIU)
+
+[![Matiwabi](https://github.com/Machiwabi/machiwabi-updates-summary/assets/1862066/aa53ec49-62e1-4144-873c-6988e4bba0ac)](https://youtu.be/iATaj2PmMys?si=Euw04vWOObbd8XIU)
+
+
 
