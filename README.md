@@ -26,6 +26,8 @@
 
 ### 2.Implemented PointContracts (MatiwabiToken721,MissionToken1155)
 
+https://github.com/Machiwabi/machiwabi-contracts
+
 - En
   - An extension of ERC721 called "MatiwabiToken721" is designed to start when Machiwabi is initiated. It includes a function that derives points based on the block number difference.
   - "MissionToken1155," earned upon completing missions, is an extension of ERC1155. In collaboration with MatiwabiToken721, it can increase the point gain of MatiwabiToken721. The more you acquire, the more points MatiwabiToken721 gains.
