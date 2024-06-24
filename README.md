@@ -76,3 +76,6 @@ https://github.com/Machiwabi/machiwabi-contracts
 https://www.youtube.com/watch?v=iATaj2PmMys
 
 [![alt設定](http://img.youtube.com/vi/iATaj2PmMys/0.jpg)](https://www.youtube.com/watch?v=iATaj2PmMys)
+
+上のプレビュー動画ではUE5とmatiwabiを繋げてオフチェーンで実装。
+オフチェーンのアクションにhookしたオンチェーンでの実装は次の段階を想定
