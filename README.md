@@ -5,28 +5,26 @@
 
 ##  5th Wave Latest Updates
 
-### Updates
-
 - En
-  - The first of the Proof of Concept (from the start of the waiting period to the end of the event) has been completed, including the exchange of rewards for NFTs.
-  - The implementation and verification of the point contract have begun (MatiwabiToken721 and MissionToken1155).
-  - Testing of integration between Metame (UE5) and Machiwabi.
-  - Implementation of the Treasure Mission, where finding a code within the metaverse space increases the point increase rate.
+  - 1.The first of the Proof of Concept (from the start of the waiting period to the end of the event) has been completed, including the exchange of rewards for NFTs.
+    - The implementation and verification of the point contract have begun (MatiwabiToken721 and MissionToken1155).
+  - 2.Testing of integration between Metame (UE5) and Machiwabi.
+  - 3.Implementation of the Treasure Mission, where finding a code within the metaverse space increases the point increase rate.
 - Ja
-  - PoC第1週目(待ち時間開始〜イベント終了)完了
+  - 1.PoC第1週目(待ち時間開始〜イベント終了)完了
 　　　  - リワードとのNFTの引き換え実施
-  - ポイントコントラクトの実装と検証を開始(MatiwabiToken７２１,MissionToken1155)
-  - Metame(UE5)とマチワビの連携テスト
+  - 2.ポイントコントラクトの実装と検証を開始(MatiwabiToken７２１,MissionToken1155)
+  - 3.Metame(UE5)とマチワビの連携テスト
     - トレジャーミッションの実装　メタバース空間内部でコードを見つけるとポイント上昇率が上がる仕組みの実装
 
-### PoC [1st PoC Implementation: Tokyo Dome Event 06/03-06/23
+### 1,PoC [1st PoC Implementation: Tokyo Dome Event 06/03-06/23
 
 - En
   - We offered an experience where fans could stake points while eagerly waiting for the pro wrestling event. During this wait, fans could increase their staking rate by tipping their favorite talents or tweeting about the event.
 - Ja
   - PoCでは、マチワビにユーザーが継続的に来訪・アクションすることがわかり、一定の価値を証明できました。「マチワビに参加するユーザーがいる」「課金する」「SNSでのアクションをする」という学びを得たことは、チームにとって大きい収穫でした。
 
-### About PointContracts (MatiwabiToken721,MissionToken1155)
+### 2.Implemented PointContracts (MatiwabiToken721,MissionToken1155)
 
 - En
   - An extension of ERC721 called "MatiwabiToken721" is designed to start when Machiwabi is initiated. It includes a function that derives points based on the block number difference.
@@ -37,7 +35,7 @@
   - ミッションを達成するともらえる「MissonToken1155」。これはERC1155の拡張で、MatiwabiToken721と連携して、Matiwabi721のポイント増加量を増やすことができるようになります。取得すればするほど、MatiwabiToken721のポイントが増えるという仕組みになっています。
   - MantaPacificSepoliaTestnetおよびSepoliaTestNetにデプロイを行い動作検証を開始しています。
 
-#### MatiwabiToken721 / MissionToken1155
+#### About MatiwabiToken721 / MissionToken1155
 <img width="2249" alt="001" src="https://github.com/Machiwabi/machiwabi-docs/assets/1862066/96b62be2-bc94-493d-90f5-e80789b18253">
 
 #### Integration of Experiences and On-Chain Technology
@@ -52,7 +50,9 @@
 |MissionToken1155|manta-sepolia-testnet|https://pacific-explorer.sepolia-testnet.manta.network/address/0xf472fed0404F907dB77d3052f95ad75B317f3e07|
 |MissionToken1155|sepolia|https://sepolia.etherscan.io/address/0xaf3E61dDa90956085060dce183dA0d928610D9B2|
 
-### In MetaMe 
+### 3.In Metaverse, we implemented the Treasure Mission, where finding a code within the metaverse space increases the point increase rate.
+
+<img width="2249" alt="003" src="https://github.com/Machiwabi/machiwabi-docs/assets/1862066/b887002d-7885-4725-9b7c-f483495d6854">
 
 - En
   - I propose a draft of a mission called "Treasure Mission." In this mission, participants explore a virtual space during the waiting time before an event. When they discover a hidden treasure (a string of characters), their point increase rate improves.
@@ -62,7 +62,7 @@
   -  「トレジャーミッション」なるミッションの素案を提案。イベント開催前の待ち侘び時間にてバーチャル空間を回遊し、トレジャー隠された文字列を発見するとポイント増加率が向上するというもの。
   - URLを埋め込むだけでバーチャル空間に簡単に仕掛けることができ、回遊と再訪率を促すという仕組みを実現します。
 
-<img width="2249" alt="003" src="https://github.com/Machiwabi/machiwabi-docs/assets/1862066/b887002d-7885-4725-9b7c-f483495d6854">
+
 
 #### Movie
 
